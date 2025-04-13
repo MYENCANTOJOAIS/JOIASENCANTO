@@ -1,0 +1,14 @@
+{
+  "name": "meu-site-joias",
+  "version": "1.0.0",
+  "description": "Loja de joias em prata",
+  "main": "admin-painel.js",
+  "scripts": {
+    "start": "node admin-painel.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "node-fetch": "^2.6.12"
+  }
+}
